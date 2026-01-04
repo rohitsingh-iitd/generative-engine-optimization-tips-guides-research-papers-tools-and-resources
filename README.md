@@ -35,7 +35,7 @@ Traditional SEO focuses on ranking in search results. GEO focuses on **being ref
 ## 🤝 Contributing
 
 Have resources, papers, tools, or experiments to share? Contributions are welcome.  
-Open a PR or issue to suggest additions. If you’ve built something GEO-related (including work connected to GeoZ AI), feel free to share it.
+Open a PR or issue to suggest additions. If you’ve built something GEO-related (including work connected to [GeoZ AI](https://geoz.ai)), feel free to share it.
 
 ---
 
@@ -44,8 +44,15 @@ Open a PR or issue to suggest additions. If you’ve built something GEO-related
 Links will be added as they are provided. Each entry will include paper, code, and dataset links when available.
 
 ### 2025
-- **C-SEO Bench: Does Conversational SEO Work?** (NeurIPS D&B 2025) — [Paper](TBD) · [Code](TBD) · [Dataset](TBD)
-- **Dynamics Of Adversarial Attacks On Large Language Model‑Based Search Engines** — [Paper](TBD)
+- **Language Models are Injective and Hence Invertible** [Paper](https://arxiv.org/abs/2510.15511)
+Shows that (decoder-only) transformer LMs are injective (no two prompts share the same hidden-state trajectory) and introduces SipIt to reconstruct the exact prompt from activations. For GEO, this implies “internal representations” can preserve full prompt intent, so prompt-to-answer behavior is more traceable, and storing activations/embeddings can leak query text—important for safe logging, audits, and optimization loops.
+
+- **C-SEO Bench: Does Conversational SEO Work?** (NeurIPS D&B 2025) — [Paper](https://arxiv.org/abs/2506.11097) · [Github Repo](https://github.com/parameterlab/c-seo-bench) · [Hugging Fcae Dataset](https://huggingface.co/datasets/parameterlab/c-seo-bench)
+Introduces C-SEO Bench, a benchmark to test “conversational SEO” methods across multiple tasks (QA + product recommendation), domains, and competitive adoption rates. Key GEO takeaway: many current “LLM-optimization edits” are ineffective or even hurt ranking, while classic SEO signals that improve retrieval/context inclusion work better; gains also shrink as more actors adopt, making GEO feel congested/zero-sum—so you need measurement that assumes competition, not single-page wins.
+
+- **Dynamics Of Adversarial Attacks On Large Language Model‑Based Search Engines** — [Paper](https://arxiv.org/abs/2501.00745)
+Models “black-hat GEO” as a repeated game where publishers decide to cooperate (don’t manipulate) or defect (ranking-manipulation attacks) in LLM-based search. For GEO, it explains when ecosystems tip into an arms race vs stabilize, and what levers matter (attack cost, success rate, long-term incentives) for designing robust ranking/anti-spam and realistic optimization strategies.
+
 - **White Hat Search Engine Optimization using Large Language Models** — [Paper](TBD)
 - **PoisonArena: Uncovering Competing Poisoning Attacks in Retrieval‑Augmented Generation** — [Paper](TBD)
 - **Beyond SEO: A Transformer‑Based Approach for Reinventing Web Content Optimisation** — [Paper](TBD)
