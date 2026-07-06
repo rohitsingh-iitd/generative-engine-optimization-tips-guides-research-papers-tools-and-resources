@@ -37,6 +37,10 @@ Traditional SEO focuses on ranking in search results. GEO focuses on **being ref
 Have resources, papers, tools, or experiments to share? Contributions are welcome.  
 Open a PR or issue to suggest additions. If you’ve built something GEO-related (including work connected to [GeoZ AI](https://geoz.ai)), feel free to share it.
 
+## Tools & Resources
+
+- [AnswerLens](https://app.sfdj.net/) - Audits public B2B SaaS page evidence for AI search and SEO, then maps gaps in pricing, comparison, docs, proof, and trust pages into a fix plan.
+
 ---
 
 ## 📚 Research Papers
