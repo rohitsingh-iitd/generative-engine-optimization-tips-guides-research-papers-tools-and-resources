@@ -60,6 +60,10 @@ This collection helps you investigate practical questions:
 - Do the results hold across repeated tests and different engines?
 - How does that visibility connect to your marketing goals?
 
+## Tools & Resources
+
+- [AnswerLens](https://app.sfdj.net/) - Audits public B2B SaaS page evidence for AI search and SEO, then maps gaps in pricing, comparison, docs, proof, and trust pages into a fix plan.
+
 ---
 
 ## Research Papers & Benchmarks
