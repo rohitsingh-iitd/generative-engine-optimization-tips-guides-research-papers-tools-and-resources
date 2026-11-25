@@ -1,0 +1,138 @@
+# The GEO Community Start Here Blog Index
+
+A complete directory of the **35 blog articles linked from [The GEO Community’s Start Here section](https://thegeocommunity.com/start/)**: one featured introduction and 34 articles across six learning modules.
+
+**Source checked:** 25 November 2026. Article order and link labels follow Start Here; an article’s own headline may differ slightly.
+
+**[Open Start Here](https://thegeocommunity.com/start/) · [Explore The GEO Community](https://thegeocommunity.com/) · [Meet Mavey](https://www.mavey.ai/)**
+
+## Contents
+
+| Section | Articles |
+| --- | ---: |
+| [Start with the origin](#start-with-the-origin) | 1 |
+| [Basics](#1-basics) | 7 |
+| [Content Strategy](#2-content-strategy) | 10 |
+| [Prompting Techniques](#3-prompting-techniques) | 5 |
+| [Measurement & Bot Intelligence](#4-measurement-and-bot-intelligence) | 5 |
+| [Experiments & Novel Ideas](#5-experiments-and-novel-ideas) | 3 |
+| [GEO Benchmarks](#6-geo-benchmarks) | 4 |
+| **Total** | **35** |
+
+## Choose Your Learning Track
+
+| Track | Intended audience |
+| --- | --- |
+| **Strategist** | CMOs, VPs, and brand leads |
+| **Builder** | SEO professionals and content marketers |
+| **Engineer** | Developers and researchers |
+
+The audience labels below reproduce the recommendations shown for each chapter on Start Here. You can read every module regardless of your track.
+
+## Start with the Origin
+
+### [The Origin of GEO and Why Its History Differs From AEO](https://thegeocommunity.com/blogs/generative-engine-optimization/origin-of-geo-history-aeo/)
+
+Begin with the history of Generative Engine Optimization and how its academic origins differ from the development of AEO.
+
+## 1. Basics
+
+Understand content access, crawlability, structured data, and the relationship between SEO, AEO, and GEO.
+
+**7 articles**
+
+| # | Blog | Recommended tracks |
+| ---: | --- | --- |
+| 1 | [llms.txt for SPA Hydration Gaps](https://thegeocommunity.com/blogs/generative-engine-optimization/llms-txt-spa-hydration-gaps/) | Builder, Engineer |
+| 2 | [Is Crawlability Still an SEO Task in 2026? The Word Now Has Two Meanings](https://thegeocommunity.com/blogs/generative-engine-optimization/crawlability-seo-geo-two-meanings/) | Builder, Engineer |
+| 3 | [robots.txt for AI Bots](https://thegeocommunity.com/blogs/generative-engine-optimization/robots-txt-ai-bots/) | Builder, Engineer |
+| 4 | [Why JSON-LD Is Important (Google Only)](https://thegeocommunity.com/blogs/generative-engine-optimization/why-json-ld-is-important-google/) | Builder, Engineer |
+| 5 | [Who Created WebMCP? The Complete History & Timeline (15 Months, 7 Engineers, 3 Companies)](https://thegeocommunity.com/blogs/generative-engine-optimization/webmcp-history-timeline-15-months-7-engineers-3-companies/) | Strategist, Builder, Engineer |
+| 6 | [AEO vs Generative Engine Optimization (GEO) (Microsoft's Framing)](https://thegeocommunity.com/blogs/generative-engine-optimization/aeo-vs-geo-microsoft/) | Strategist, Builder |
+| 7 | [Generative Engine Optimization (GEO) vs SEO: How the User Funnel Changed](https://thegeocommunity.com/blogs/generative-engine-optimization/geo-vs-seo-user-funnel/) | Strategist, Builder |
+
+## 2. Content Strategy
+
+Explore research and frameworks for content structure, retrieval, source selection, and AI citation visibility.
+
+**10 articles**
+
+| # | Blog | Recommended tracks |
+| ---: | --- | --- |
+| 1 | [The Original GEO Paper: What Princeton & IIT Delhi Actually Found](https://thegeocommunity.com/blogs/generative-engine-optimization/geo-princeton-paper-original-study/) | Strategist, Builder |
+| 2 | [How to Dominate AI Search: The First Comparative Study of GEO Across All Major Engines](https://thegeocommunity.com/blogs/generative-engine-optimization/geo-dominate-ai-search-comparative-study/) | Strategist, Builder |
+| 3 | [How to Use Google's LangExtract Library to Improve Your GEO](https://thegeocommunity.com/blogs/generative-engine-optimization/langextract-gemini-generative-engine-optimization/) | Builder, Engineer |
+| 4 | [How the Architecture of Embedding Models Determines Whether AI Retrieves Your Content](https://thegeocommunity.com/blogs/generative-engine-optimization/embedding-architecture-ai-retrieval/) | Strategist, Builder, Engineer |
+| 5 | [FeatGEO: Why the Original 9 GEO Tactics Are Failing on Modern AI Engines](https://thegeocommunity.com/blogs/generative-engine-optimization/feat-geo-paper-feature-level-optimization/) | Strategist, Builder |
+| 6 | [GEO-SFE: How Document Structure — Not Just Content — Shapes Whether AI Cites You](https://thegeocommunity.com/blogs/generative-engine-optimization/geo-sfe-structural-feature-engineering-citation/) | Strategist, Builder |
+| 7 | [HNSW and GEO: The Retrieval Layer Nobody Talks About](https://thegeocommunity.com/blogs/generative-engine-optimization/hnsw-and-geo-retrieval-layer/) | Strategist, Builder, Engineer |
+| 8 | [Pinterest GEO Framework: How VLMs, AI Agents, HNSW, and Internal Links Drove 20% Organic Traffic Growth](https://thegeocommunity.com/blogs/generative-engine-optimization/pinterest-geo-vlm-agent-framework-organic-traffic/) | Strategist, Builder, Engineer |
+| 9 | [MAGEO: The GEO Framework That Learns From Every Edit and Gets Smarter Across Engines](https://thegeocommunity.com/blogs/generative-engine-optimization/mageo-multi-agent-geo-reusable-strategy-learning/) | Strategist, Builder, Engineer |
+| 10 | [Why Does ChatGPT Cite Some Websites and Ignore Others? A Study of 468,037 AI Citations](https://thegeocommunity.com/blogs/generative-engine-optimization/why-does-chatgpt-cite-some-websites-ignore-others/) | Strategist, Builder, Engineer |
+
+## 3. Prompting Techniques
+
+Build practical prompting skills for content planning, brand voice, multi-step workflows, and evaluation.
+
+**5 articles**
+
+| # | Blog | Recommended tracks |
+| ---: | --- | --- |
+| 1 | [Zero-Shot vs Few-Shot Prompting: When to Use Each](https://thegeocommunity.com/blogs/generative-engine-optimization/zero-shot-vs-few-shot-prompting-seo-content/) | Strategist, Builder, Engineer |
+| 2 | [Chain-of-Thought Prompting for Content Strategy](https://thegeocommunity.com/blogs/generative-engine-optimization/chain-of-thought-prompting-content-strategy/) | Strategist, Builder |
+| 3 | [System Prompts & Role Prompting: Consistent Brand Voice](https://thegeocommunity.com/blogs/generative-engine-optimization/system-prompts-role-prompting-brand-voice/) | Strategist, Builder |
+| 4 | [Prompt Chaining for SEO Workflows](https://thegeocommunity.com/blogs/generative-engine-optimization/prompt-chaining-seo-workflows/) | Builder, Engineer |
+| 5 | [Prompt Testing & Iteration: Evaluate and Improve](https://thegeocommunity.com/blogs/generative-engine-optimization/prompt-testing-iteration-evaluate-improve/) | Strategist, Builder, Engineer |
+
+## 4. Measurement and Bot Intelligence
+
+Measure AI crawler activity, content discovery, and visitor behavior with practical analytics guides.
+
+**5 articles**
+
+| # | Blog | Recommended tracks |
+| ---: | --- | --- |
+| 1 | [Log File Analysis for AI Bots: How to Track What's Actually Crawling You](https://thegeocommunity.com/blogs/generative-engine-optimization/log-file-analysis-ai-bots-geo/) | Builder, Engineer |
+| 2 | [IndexNow by Microsoft: The Fast Lane to AI Visibility](https://thegeocommunity.com/blogs/generative-engine-optimization/indexnow-microsoft-ai-visibility/) | Builder, Engineer |
+| 3 | [Microsoft Clarity AI Bot Activity](https://thegeocommunity.com/blogs/generative-engine-optimization/microsoft-clarity-ai-bot-activity/) | Strategist, Builder, Engineer |
+| 4 | [How to Track and Analyze Scroll Depth in GA4: A Complete Guide for Marketers](https://thegeocommunity.com/blogs/generative-engine-optimization/scroll-depth-analysis-ga4-gtm/) | Builder, Engineer |
+| 5 | [Google Analytics Now Has a Native AI Assistant Channel. Here's What Changes for GEO Measurement.](https://thegeocommunity.com/blogs/generative-engine-optimization/google-analytics-ai-assistant-channel-native-tracking/) | Strategist, Builder |
+
+## 5. Experiments and Novel Ideas
+
+Study hands-on tests involving reranking, embedding spaces, and verifiable source information.
+
+**3 articles**
+
+| # | Blog | Recommended tracks |
+| ---: | --- | --- |
+| 1 | [Cosine Similarity "Tweaking" Can Backfire: A Reranker Experiment](https://thegeocommunity.com/blogs/generative-engine-optimization/cosine-similarity-tweaking-backfire-reranker-experiment/) | Builder, Engineer |
+| 2 | [Watching a Paragraph Move in Embedding Space](https://thegeocommunity.com/blogs/generative-engine-optimization/semantic-visualization-experiment-embedding-space/) | Builder, Engineer |
+| 3 | [How to Make Your AI Content Trustworthy: DOI Verification](https://thegeocommunity.com/blogs/generative-engine-optimization/ai-visibility-operation-provenance-lattice-construction-using-doi-records/) | Strategist, Builder, Engineer |
+
+## 6. GEO Benchmarks
+
+Understand the benchmarks used to evaluate source influence, content optimization, and the full search pipeline.
+
+**4 articles**
+
+| # | Blog | Recommended tracks |
+| ---: | --- | --- |
+| 1 | [CC-GSEO-Bench: The First Content-Centric Benchmark for Measuring Source Influence in Generative Search](https://thegeocommunity.com/blogs/generative-engine-optimization/cc-gseo-bench-source-influence-generative-search/) | Engineer |
+| 2 | [AutoGEO (ICLR 2026): How CMU Built a Framework to Automatically Optimize Content for AI Visibility](https://thegeocommunity.com/blogs/generative-engine-optimization/autogeo-framework-iclr-2026-cmu/) | Engineer |
+| 3 | [SAGEO Arena: The First Realistic GEO Benchmark — Full Pipeline, 170K Documents, and Why Body-Text Optimization Fails](https://thegeocommunity.com/blogs/generative-engine-optimization/sageo-arena-realistic-geo-benchmark/) | Engineer |
+| 4 | [RAID G-SEO: How Modeling Search Intent Without Seeing User Queries Beats Every Original GEO Tactic](https://thegeocommunity.com/blogs/generative-engine-optimization/raid-geo-intent-driven-generative-search-optimization/) | Strategist, Builder |
+
+## Additional Start Here Resources
+
+These resources are linked from Start Here and are separate from the 35 blog articles above.
+
+- [Transformer Architecture Visualization](https://thegeocommunity.com/resources/transformer-visualization): an interactive resource for exploring the Transformer architecture.
+- [Community Submissions](https://thegeocommunity.com/community/submissions): tools, experiments, and frameworks shared by community members.
+- [Browse the Full Blog](https://thegeocommunity.com/blogs): continue beyond the Start Here curriculum.
+
+## Put Your Learning into Practice with Mavey
+
+[**Mavey**](https://www.mavey.ai/) is your always-on AI marketing team. Bring SEO, GEO, content, and social marketing work into one conversation, with persistent memory and autopilot workflows.
+
+**[Explore Mavey →](https://www.mavey.ai/)**
